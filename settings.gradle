@@ -1,0 +1,3 @@
+include ':JpBle'
+include ':app'
+rootProject.name = "JPBle"
